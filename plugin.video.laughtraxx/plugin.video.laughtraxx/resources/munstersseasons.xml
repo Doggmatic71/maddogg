@@ -1,0 +1,33 @@
+########################
+<poster>The Munsters</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Season 1</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057773</imdb>
+                <tvdb>77280</tvdb>
+                <tvshowtitle>The Munsters</tvshowtitle>
+                <year>1964</year>
+                <season>1</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/munsters1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/77280-1-4.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Season 2</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057773</imdb>
+                <tvdb>77280</tvdb>
+                <tvshowtitle>The Munsters</tvshowtitle>
+                <year>1964</year>
+                <season>2</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/77280-2-3.jpg</thumbnail>		
+</dir>

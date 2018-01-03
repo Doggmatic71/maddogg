@@ -1,0 +1,47 @@
+########################
+<poster>What's Happening!!</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Season 1</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0074071</imdb>
+                <tvdb>73506</tvdb>
+                <tvshowtitle>What's Happening!!</tvshowtitle>
+                <year>1976</year>
+                <season>1</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/happening1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/73506-1.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Season 2</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0074071</imdb>
+                <tvdb>73506</tvdb>
+                <tvshowtitle>What's Happening!!</tvshowtitle>
+                <year>1976</year>
+                <season>2</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/73506-2.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 3</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0074071</imdb>
+                <tvdb>73506</tvdb>
+                <tvshowtitle>What's Happening!!</tvshowtitle>
+                <year>1976</year>
+                <season>3</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/73506-3.jpg</thumbnail>		
+</dir>

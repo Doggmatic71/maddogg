@@ -1,0 +1,96 @@
+######################################################
+<poster>Trakt Portal</poster>
+<thumbnail></thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+######################################################
+
+<dir>
+    <title>Authorize Your Trakt</title>
+    <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>My Movie Collection</title>
+    <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>My TV Collection</title>
+    <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>My Movie Watchlist</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>My TV Watchlist</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>My Liked Lists</title>
+    <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>My lists</title>
+    <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+	<name>~~~~POPULAR AND TRENDING TRAKT CONTENT~~~~</name>
+	<link>none</link>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+	<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>Popular Shows</title>
+    <trakt>https://api.trakt.tv/shows/popular?limit=20&page=1</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>Trending Shows</title>
+    <trakt>https://api.trakt.tv/shows/trending?limit=20&page=1</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>Popular Movies</title>
+    <trakt>https://api.trakt.tv/movies/popular?limit=40&page=1</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+<dir>
+    <title>Trending Movies</title>
+    <trakt>https://api.trakt.tv/movies/trending?limit=40&page=1</trakt>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
+    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
+</dir>
+
+
+
+
+
+
+

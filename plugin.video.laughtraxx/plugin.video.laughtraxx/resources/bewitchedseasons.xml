@@ -1,0 +1,119 @@
+########################
+<poster>Bewitched</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Season 1</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>1</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/bewitched1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/71528-1.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Season 2</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>2</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/71528-2.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 3</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>3</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/140-3.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 4</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>4</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/140-4.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 5</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>5</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/71528-5.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 6</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>5</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/71528-6.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 7</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>5</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/71528-7.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Season 8</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0057733</imdb>
+                <tvdb>71528</tvdb>
+                <tvshowtitle>Bewitched</tvshowtitle>
+                <year>1964</year>
+                <season>5</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/71528-8.jpg</thumbnail>		
+</dir>
+
+

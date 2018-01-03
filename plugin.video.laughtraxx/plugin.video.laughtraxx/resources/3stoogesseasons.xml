@@ -1,0 +1,75 @@
+########################
+<poster>The Three Stooges</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Seasons 1-5</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt6512916</imdb>
+                <tvdb>79173</tvdb>
+                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <year>1934</year>
+                <season>6-10</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/3stooges1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/79173-1.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Seasons 6-10</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt6512916</imdb>
+                <tvdb>79173</tvdb>
+                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <year>1934</year>
+                <season>6-10</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/3stooges6.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/79173-1.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 11-15</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt6512916</imdb>
+                <tvdb>79173</tvdb>
+                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <year>1934</year>
+                <season>11-15</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/3stooges11.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/79173-1.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 16-20</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt6512916</imdb>
+                <tvdb>79173</tvdb>
+                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <year>1934</year>
+                <season>16-20</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/3stooges16.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/79173-1.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 21-26</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt6512916</imdb>
+                <tvdb>79173</tvdb>
+                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <year>1934</year>
+                <season>21-26</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/3stooges21.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/79173-1.jpg</thumbnail>		
+</dir>

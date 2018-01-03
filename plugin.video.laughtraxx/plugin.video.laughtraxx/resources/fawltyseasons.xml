@@ -1,0 +1,33 @@
+########################
+<poster>Fawlty Towers</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Season 1</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0072500</imdb>
+                <tvdb>75932</tvdb>
+                <tvshowtitle>Fawlty Towers</tvshowtitle>
+                <year>1975</year>
+                <season>1</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/fawlty1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/75932-1-2.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Season 2</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0072500</imdb>
+                <tvdb>75932</tvdb>
+                <tvshowtitle>Fawlty Towers</tvshowtitle>
+                <year>1975</year>
+                <season>2</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/fawlty2.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/seasons/75932-2.jpg</thumbnail>		
+</dir>

@@ -1,0 +1,61 @@
+########################
+<poster>Laurel and Hardy</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Seasons 1-5</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0013341</imdb>
+                <tvdb>73910</tvdb>
+                <tvshowtitle>Laurel and Hardy</tvshowtitle>
+                <year>1921</year>
+                <season>1-5</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/doggmatic71/master/plugin.video.laughtraxx/resources/laurel.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/73910-4.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Seasons 6-10</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0013341</imdb>
+                <tvdb>73910</tvdb>
+                <tvshowtitle>Laurel and Hardy</tvshowtitle>
+                <year>1921</year>
+                <season>6-10</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/73910-2.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 11-15</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0013341</imdb>
+                <tvdb>73910</tvdb>
+                <tvshowtitle>Laurel and Hardy</tvshowtitle>
+                <year>1921</year>
+                <season>11-15</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/73910-3.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 16-22</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0013341</imdb>
+                <tvdb>73910</tvdb>
+                <tvshowtitle>Laurel and Hardy</tvshowtitle>
+                <year>1921</year>
+                <season>16-22</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/73910-1.jpg</thumbnail>		
+</dir>
