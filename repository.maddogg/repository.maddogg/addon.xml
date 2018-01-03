@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.maddogg" name="[COLOR red]MadDogg Repository[/COLOR]" version="1.0.0" provider-name="Team MadDogg">
-        <extension point="xbmc.addon.repository" name="[COLOR yellow]MadDogg Repository[/COLOR]">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>	
+    <extension point="xbmc.addon.repository" name="[COLOR yellow]MadDogg Repository[/COLOR]">
 		<dir>
             <info compressed="false">https://raw.githubusercontent.com/Doggmatic71/maddogg/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/addons.xml.md5</checksum>
@@ -28,8 +31,8 @@
             <datadir zip="true">https://raw.githubusercontent.com/teverz/teverz/master/_repo/</datadir>
             <hashes>false</hashes>
 		</dir>
-        </extension>
-        <extension point="xbmc.addon.metadata">
+    </extension>
+    <extension point="xbmc.addon.metadata">
             <summary>Team MadDogg</summary>
             <description>Team MadDogg Repository</description>
             <platform>all</platform>
