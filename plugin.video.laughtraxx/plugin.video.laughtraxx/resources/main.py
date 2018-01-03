@@ -632,3 +632,11 @@
 	    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvSfph49LGl-KZCOTozHJpYlBY0E13z0AKV6i1neSTFVAVQbz</thumbnail>
 	    <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR7jyWqpo_hdJTBbwfDDe4IqFqffz8IuQsVkl3elFkSQlyNFNZA</fanart>
 </dir>
+
+<dir>
+	<title>[COLORorange]TESTING AREA[/COLOR]
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
