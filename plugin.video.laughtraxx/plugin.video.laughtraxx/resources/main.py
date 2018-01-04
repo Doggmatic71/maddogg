@@ -634,7 +634,7 @@
 </dir>
 
 <dir>
-	<title>[COLORorange]TESTING AREA[/COLOR]
+	<title>[COLORorange]TESTING AREA[/COLOR]</title>
 	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
