@@ -573,20 +573,6 @@
 </dir>
 
 <dir>
-        <title>SCTV</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle>Sanford & Son</tvshowtitle>
-                <year></year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/SCTVseasons.xml</link>
-	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/186241-2.jpg</thumbnail>
-	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/186241-1.jpg</fanart>
-</dir>
-
-<dir>
         <title>THE THREE STOOGES</title>
         <meta>
                 <content>tvshow</content>
