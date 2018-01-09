@@ -371,7 +371,7 @@
                 <tvshowtitle></tvshowtitle>
                 <year></year>
         </meta>
-        <link></link>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/beaverseasons.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71575-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -651,7 +651,7 @@
 
 <dir>
 	<title>[COLORorange]TESTING AREA[/COLOR]</title>
-	<link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/beaverseasons.xml</link>
+	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
