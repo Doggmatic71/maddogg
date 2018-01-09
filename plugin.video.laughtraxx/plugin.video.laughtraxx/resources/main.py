@@ -363,6 +363,22 @@
 </dir>
 
 <dir>
+        <title>LEAVE IT TO BEAVER</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71575-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/71575-3.jpg</fanart>
+</dir>
+
+<dir>
         <title>LOST IN SPACE</title>
         <meta>
                 <content>tvshow</content>
@@ -543,12 +559,12 @@
 </dir>
 
 <dir>
-        <title>Sanford and Son</title>
+        <title>SANFORD & SON</title>
         <meta>
                 <content>tvshow</content>
                 <imdb></imdb>
                 <tvdb></tvdb>
-                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <tvshowtitle>Sanford & Son</tvshowtitle>
                 <year></year>
         </meta>
         <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/sanfordseasons.xml</link>
