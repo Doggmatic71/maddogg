@@ -651,7 +651,7 @@
 
 <dir>
 	<title>[COLORorange]TESTING AREA[/COLOR]</title>
-	<link></link>
+	<link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/beaverseasons.xml</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
