@@ -113,7 +113,7 @@
                 <tvshowtitle></tvshowtitle>
                 <year></year>
         </meta>
-        <link></link>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/newhartseasons.xml</link>
         <animated_thumbnail></animated_thumbnail>
 	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/78089-1.jpg</thumbnail>
 	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/78089-2.jpg</fanart>
