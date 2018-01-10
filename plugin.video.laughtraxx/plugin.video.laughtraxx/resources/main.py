@@ -105,6 +105,21 @@
 </dir>
 
 <dir>
+        <title>THE BOB NEWHART SHOW</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/78089-1.jpg</thumbnail>
+	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/78089-2.jpg</fanart>
+</dir>
+
+<dir>
         <title>BONANZA</title>
         <meta>
                 <content>tvshow</content>
