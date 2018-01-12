@@ -409,6 +409,21 @@
 </dir>
 
 <dir>
+        <title>MADTV</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/77897-1.jpg</thumbnail>
+	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/77897-1.jpg</fanart>
+</dir>
+
+<dir>
         <title>THE MARY TYLER MOORE SHOW</title>
         <meta>
                 <content>tvshow</content>
