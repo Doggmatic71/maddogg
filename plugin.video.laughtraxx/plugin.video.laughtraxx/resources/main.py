@@ -417,7 +417,7 @@
                 <tvshowtitle></tvshowtitle>
                 <year></year>
         </meta>
-        <link></link>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/madseasons.xml</link>
         <animated_thumbnail></animated_thumbnail>
 	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/77897-1.jpg</thumbnail>
 	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/77897-1.jpg</fanart>
