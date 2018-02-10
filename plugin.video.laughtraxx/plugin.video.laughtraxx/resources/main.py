@@ -682,7 +682,7 @@
 <dir>
 	<title>[COLORorange]TESTING AREA[/COLOR]</title>
 	<link></link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+	<thumbnail>https://www.thetvdb.com/banners/_cache/posters/70572-1.jpg</thumbnail>
+	<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/70572-1.jpg</fanart>
 </dir>
 
