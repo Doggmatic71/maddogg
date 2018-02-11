@@ -574,6 +574,21 @@
 </dir>
 
 <dir>
+        <title>THE PHIL SILVERS SHOW - SGT. BILKO</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/76688-2.jpg</thumbnail>
+	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/76688-6.jpg</fanart>
+</dir>
+
+<dir>
         <title>PORRIDGE</title>
         <meta>
                 <content>tvshow</content>
@@ -681,8 +696,8 @@
 
 <dir>
 	<title>[COLORorange]TESTING AREA[/COLOR]</title>
-	<link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/bilko1.xml</link>
-	<thumbnail>https://www.thetvdb.com/banners/_cache/posters/76688-2.jpg</thumbnail>
-	<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/76688-6.jpg</fanart>
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 </dir>
 
