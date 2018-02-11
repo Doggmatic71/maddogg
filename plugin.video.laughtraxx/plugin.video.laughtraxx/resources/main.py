@@ -582,7 +582,7 @@
                 <tvshowtitle></tvshowtitle>
                 <year></year>
         </meta>
-        <link></link>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/bilkoseasons.xml</link>
         <animated_thumbnail></animated_thumbnail>
 	    <thumbnail>https://www.thetvdb.com/banners/_cache/posters/76688-2.jpg</thumbnail>
 	    <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/76688-6.jpg</fanart>
