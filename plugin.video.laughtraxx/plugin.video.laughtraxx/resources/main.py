@@ -681,8 +681,8 @@
 
 <dir>
 	<title>[COLORorange]TESTING AREA[/COLOR]</title>
-	<link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/rascals1.xml</link>
-	<thumbnail>https://www.thetvdb.com/banners/_cache/posters/70572-1.jpg</thumbnail>
-	<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/70572-1.jpg</fanart>
+	<link></link>
+	<thumbnail>https://www.thetvdb.com/banners/_cache/posters/76688-2.jpg</thumbnail>
+	<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/76688-6.jpg</fanart>
 </dir>
 
