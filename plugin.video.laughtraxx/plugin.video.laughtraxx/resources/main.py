@@ -681,7 +681,7 @@
 
 <dir>
 	<title>[COLORorange]TESTING AREA[/COLOR]</title>
-	<link></link>
+	<link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/bilko1.xml</link>
 	<thumbnail>https://www.thetvdb.com/banners/_cache/posters/76688-2.jpg</thumbnail>
 	<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/76688-6.jpg</fanart>
 </dir>
