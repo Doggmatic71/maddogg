@@ -44,7 +44,7 @@
 <addon id="plugin.video.hammertime" name="HammerTime" version="0.0.1" provider-name="Doggmatic71">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.nanscrapers" version="0.5.5" />
+		<import addon="script.module.universalscrapers" version="1.0.0" />
         <import addon="script.module.python.koding.aio" version="0.0.1"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
@@ -54,7 +54,7 @@
 		<summary lang="en">DIY Videos</summary>
 		<description lang="en"> All types of DIY and Makeover videos</description>
 		<platform>all</platform>
-		<genre>movies,usa</genre>
+		<genre>canada,usa</genre>
 		<video_guide></video_guide>
 		<video_preview></video_preview>
 	</extension>
@@ -62,7 +62,7 @@
 <addon id="plugin.video.seemybearbass" name="See My Bear Bass" version="0.0.1" provider-name="Doggmatic71">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.nanscrapers" version="0.5.5" />
+		<import addon="script.module.universalscrapers" version="1.0.0" />
         <import addon="script.module.python.koding.aio" version="0.0.1"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
@@ -72,10 +72,51 @@
 		<summary lang="en">Hunting and Fishing Videos</summary>
 		<description lang="en"> All types of Hunting and Fishing videos</description>
 		<platform>all</platform>
-		<genre>movies,usa</genre>
+		<genre>canada,usa</genre>
 		<video_guide></video_guide>
 		<video_preview></video_preview>
 	</extension>
+</addon>
+<addon id="plugin.video.polaris" name="Polaris" version="1.2" provider-name="DA Hawaiian">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">A Mixture of Ideas</summary>
+		<description lang="en">We do not host or own any content</description>
+		<platform>all</platform>
+		<genre>uk,usa</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>
+<addon id="script.module.universalscrapers" name="Universal Scrapers" version="1.0.0" provider-name="Team Universal">
+        <requires>
+                <import addon="xbmc.python" version="2.1.0"/>
+                <import addon="script.module.beautifulsoup" version="3.2.1"/>
+                <import addon="script.module.futures" version="2.2.0"/>
+                <import addon="script.module.requests"/>
+                <import addon="script.module.six"/>
+		    <import addon="script.module.resolveurl" version="5.0.00" optional="true"/>
+                <!--<import addon="script.mrknow.urlresolver" version="2016.10.30.2" optional="true"/>-->
+        </requires>
+        <extension point="xbmc.python.module" library="lib"/>
+        <extension point="xbmc.python.pluginsource" library="lib/default.py">
+                <provides>executable</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <platform>all</platform>
+                <summary lang="en">Scrape common video host for URL's to be playable in XBMC/Kodi.</summary>
+                <description lang="en">Scrape common video host for URL's to be playable in XBMC/Kodi, simplifying addon development of video plugins requiring multi video hosts.
+                </description>
+                <license>GPL v3</license>
+                <source>https://gitlab.com/TeamUniversal/modules4all/raw/master/script.module.universalscrapers/</source>
+        </extension>
 </addon>
 </addons>
 
