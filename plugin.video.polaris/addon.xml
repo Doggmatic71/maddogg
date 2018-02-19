@@ -2,7 +2,7 @@
 <addon id="plugin.video.polaris" name="Polaris" version="1.2" provider-name="DA Hawaiian">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.nanscrapers" version="0.5.5" />
+		<import addon="script.module.universalscrapers" version="1.0.0" />
         <import addon="script.module.python.koding.aio" version="0.0.1"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
