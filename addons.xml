@@ -57,6 +57,22 @@
 	</extension>
 </addon>
 
+<addon id="script.MadDoggPair" name="[COLOR red]MadDogg [COLOR grey]Pairing Tool[/COLOR]" version="1.0" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>script executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pairing Tool for use with [COLOR red]MadDogg[/COLOR] builds.</summary>
+		<description lang="en">This tool allows you to pair your device with various pairing sites such as Openload.</description>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR cyan]https://twitter.com/K1ept0 [/COLOR][/B]</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>
+
 <addon id="plugin.video.hammertime" name="HammerTime" version="0.0.1" provider-name="Doggmatic71">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
