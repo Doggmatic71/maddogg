@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.maddogg" name="[COLOR red]MadDogg Repository[/COLOR]" version="1.0.5" provider-name="Team MadDogg">
+<addon id="repository.maddogg" name="[COLOR red]MadDogg [COLOR grey]Repository[/COLOR]" version="1.0.5" provider-name="Team MadDogg">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>	
