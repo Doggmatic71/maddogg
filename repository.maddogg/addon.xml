@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.maddogg" name="[COLOR red]MadDogg Repository[/COLOR]" version="1.0.4" provider-name="Team MadDogg">
+<addon id="repository.maddogg" name="[COLOR red]MadDogg Repository[/COLOR]" version="1.0.5" provider-name="Team MadDogg">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>	
@@ -29,12 +29,6 @@
 			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
-		</dir>
-		<dir>
-            <info compressed="false">https://raw.githubusercontent.com/teverz/teverz/master/_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/teverz/teverz/master/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/teverz/teverz/master/_repo/</datadir>
-            <hashes>false</hashes>
 		</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
