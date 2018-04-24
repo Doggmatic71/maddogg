@@ -1,0 +1,29 @@
+########################
+<poster>Season 2</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+########################
+
+ <item>
+        <title>Laurel and Hardy S02E01 - The Lucky Dog</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt0013341</imdb>
+                <tvdb>73910</tvdb>
+                <tvshowtitle>The Three Stooges</tvshowtitle>
+                <year>1934</year>
+                <title>The Lucky Dog</title>
+                <premiered>1921-10-13</premiered>
+                <season>1</season>
+                <episode>1</episode>
+        </meta>
+        <link>
+		<sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/episodes/73910/403724.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/_cache/episodes/73910/403724.jpg</fanart>
+</item>
+

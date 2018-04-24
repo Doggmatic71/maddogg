@@ -1,0 +1,62 @@
+########################
+<poster>The Benny Hill Show</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#############################
+
+<dir>
+        <name>Seasons 1-5</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0063869</imdb>
+                <tvdb>75673</tvdb>
+                <tvshowtitle>The Benny Hill Show</tvshowtitle>
+                <year>1969</year>
+                <season>1-5</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Doggmatic71/maddogg/master/plugin.video.laughtraxx/plugin.video.laughtraxx/resources/benny1.xml</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/fanart/original/75673-4.jpg</thumbnail>
+</dir>
+
+<dir>		
+        <name>Seasons 6-10</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0063869</imdb>
+                <tvdb>75673</tvdb>
+                <tvshowtitle>The Benny Hill Show</tvshowtitle>
+                <year>1969</year>
+                <season>6-10</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/fanart/original/75673-3.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 11-15</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0063869</imdb>
+                <tvdb>75673</tvdb>
+                <tvshowtitle>The Benny Hill Show</tvshowtitle>
+                <year>1969</year>
+                <season>11-15</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/fanart/original/75673-1.jpg</thumbnail>		
+</dir>
+
+<dir>		
+        <name>Seasons 16-19</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0063869</imdb>
+                <tvdb>75673</tvdb>
+                <tvshowtitle>The Benny Hill Show</tvshowtitle>
+                <year>1969</year>
+                <season>16-19</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/fanart/original/75673-2.jpg</thumbnail>		
+</dir>
+
