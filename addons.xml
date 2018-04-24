@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.maddogg" name="[COLOR red]MadDogg Repository[/COLOR]" version="1.0.4" provider-name="Team MadDogg">
+
+<addon id="repository.maddogg" name="[COLOR red]MadDogg [COLOR grey]Repository[/COLOR]" version="1.0.5" provider-name="Team MadDogg">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>	
@@ -31,18 +32,28 @@
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
 		</dir>
-		<dir>
-            <info compressed="false">https://raw.githubusercontent.com/teverz/teverz/master/_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/teverz/teverz/master/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/teverz/teverz/master/_repo/</datadir>
-            <hashes>false</hashes>
-		</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
             <summary>Team MadDogg</summary>
             <description>Team MadDogg Repository</description>
             <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="script.MadDoggPair" name="[COLOR red]MadDogg [COLOR grey]Pairing Tool[/COLOR]" version="1.0" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>script executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pairing Tool for use with [COLOR red]MadDogg[/COLOR] builds.</summary>
+		<description lang="en">This tool allows you to pair your device with various pairing sites such as Openload.</description>
+		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR cyan]https://twitter.com/K1ept0 [/COLOR][/B]</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
 </addon>
 
 <addon id="plugin.program.MadDoggWizard" name="[COLOR red]MadDogg [COLOR grey]Wizard[/COLOR]" version="1.0" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
@@ -58,22 +69,6 @@
 		<description lang="en">This Wizard allows you to install the latest version of [B][COLOR red]Team MadDog[/COLOR][/B] builds as well as builds from other builders in the Community.  It also provides Maintenance, Tools and Tweaks sections to help you keep your Media Center running as smoothly as possible.
 		</description>
 		<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.  This is a Non-profit resource organized solely for educational purposes, which is protected under the Fair-Use doctrine of the Copyright Act; Specifically section 107, which does promote the freedom of expression by permitting the unlicensed use of copyright-protected works.</disclaimer>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-	</extension>
-</addon>
-
-<addon id="script.MadDoggPair" name="[COLOR red]MadDogg [COLOR grey]Pairing Tool[/COLOR]" version="1.0" provider-name="[B][I][COLOR cyan]Klepto[/COLOR][/I][/B]">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-	</requires>
-	<extension point="xbmc.python.script" library="addon.py">
-		<provides>script executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Pairing Tool for use with [COLOR red]MadDogg[/COLOR] builds.</summary>
-		<description lang="en">This tool allows you to pair your device with various pairing sites such as Openload.</description>
-		<disclaimer lang="en">For support, follow me on Twitter at:  [B][COLOR cyan]https://twitter.com/K1ept0 [/COLOR][/B]</disclaimer>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	</extension>
@@ -97,6 +92,7 @@
 		<video_preview></video_preview>
 	</extension>
 </addon>
+
 <addon id="plugin.video.seemybearbass" name="See My Bear Bass" version="0.0.1" provider-name="Doggmatic71">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
@@ -115,12 +111,13 @@
 		<video_preview></video_preview>
 	</extension>
 </addon>
+
 <addon id="plugin.video.polaris" name="Polaris" version="1.6" provider-name="DA Hawaiian">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.universalscrapers" version="1.0.0" />
-                <import addon="script.module.python.koding.aio" version="0.0.1"/>
-		<import addon="script.module.ytpsearch" version="0.0.3"/>
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+        <import addon="script.module.ytpsearch" version="0.0.1" />		
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
@@ -134,12 +131,13 @@
 		<video_preview></video_preview>
 	</extension>
 </addon>
+
 <addon id="plugin.video.jamzz" name="Jamzz" version="0.0.1" provider-name="Team MadDogg">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.universalscrapers" version="1.0.0" />
         <import addon="script.module.python.koding.aio" version="0.0.1"/>
-		<import addon="script.module.ytpsearch" version="0.0.3"/>
+        <import addon="script.module.ytpsearch" version="0.0.3"/>
 		<import addon="plugin.video.youtube" version="5.0.0"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
@@ -147,11 +145,12 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Music Videos from YouTube</summary>
-		<description lang="en"> We do not host any material</description>
+		<description lang="en"> We do no host any material</description>
 		<platform>all</platform>
 		<genre>canada,usa</genre>
 		<video_guide></video_guide>
 		<video_preview></video_preview>
 	</extension>
 </addon>
+
 </addons>
