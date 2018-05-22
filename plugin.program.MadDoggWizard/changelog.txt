@@ -1,2 +1,14 @@
+v1.3 (05/21/2018)
+- Added Jor-el, Reptilia, Uranus & Yoda to Keep My Trakt
+- Added Jor-el, Reptilia, Uranus & Yoda to Video Cache
+- Added Gears TV, Mcktv Sports Plus, Power Tv, Vader Streams & Limitless IPTV to Keep My Login 
+
+v1.2 (05/19/2018)
+- Added Pairing
+- Added RD Authorization for URLResolver & ResolveURL
+
+v1.1 (04/30/2018)
+- Added APKFILE for Kodi Forks
+
 v1.0 (04/22/2018)
 - Initial release
