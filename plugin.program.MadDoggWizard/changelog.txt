@@ -1,3 +1,7 @@
+v1.4 (06/08/2018)
+- Updated SportsAccess, Xtream Codes & Vader Streams sections of Keep My Login
+- Added LimitlessV2 to Keep My Login
+
 v1.3 (05/21/2018)
 - Added Jor-el, Reptilia, Uranus & Yoda to Keep My Trakt
 - Added Jor-el, Reptilia, Uranus & Yoda to Video Cache
