@@ -1,3 +1,11 @@
+v1.2 (11/12/2018)
+- Updated to work with Mac OSX
+- Updated URL for flashX.tv pairing site
+- Replaced TheVideo.me pairing site with VEViO
+- Replaced VidUP.me pairing site with ViduP
+- Added All Debrid authorization
+- Added Trakt authorization
+
 v1.1 (06/07/2018)
 - Added flashX pairing site
 - Added streamcherry pairing site
